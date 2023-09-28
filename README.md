@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**hx2163/hx2163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Han Xu</h1>
+<h3 align="center">I'm a Software Engineering.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muadhhaji320&label=Profile%20views&color=0e75b6&style=flat" alt="hx2163" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **Flutter App Development**
+
+- 📫 How to reach me **hx2163@nyu.edu**
+
+- ⚡ Fun fact **I'm funny**
 -->
