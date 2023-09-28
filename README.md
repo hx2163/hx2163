@@ -51,7 +51,7 @@
 <p> </p>
 <p> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hx2163&show_icons=true&locale=en&layout=compact" alt="hx2163" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hx2163&show_icons=true&locale=en&layout=compact" alt="hx2163" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hx2163&show_icons=true&locale=en" alt="hx2163" /></p>
 
