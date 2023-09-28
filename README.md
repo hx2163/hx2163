@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there👋, I'm Han Xu</h1>
 <h3 align="center">I'm a Software Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="Coding" width="550" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hx2163&label=Profile%20views&color=0e75b6&style=flat" alt="hx2163" /> </p>
 
 - 🌱 I’m currently learning **Flutter App Development**
