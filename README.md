@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
-<h1 align="center">Hi there👋, I'm Han Xu</h1>
+<h1 align="center">Hi there👋, I'm Hanna Xu</h1>
 <h3 align="center">I'm a Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hx2163&label=Profile%20views&color=0e75b6&style=flat" alt="hx2163" /> </p>
