@@ -9,7 +9,15 @@
 
 - 📫 How to reach me **hx2163@nyu.edu**
 
+- 💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
+
 - ⚡ Fun fact **I'm funny**
+
+<h3 align="left">Certificates:</h3>
+<p align="left">
+<a href="https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/README.md" target="blank"><img align="center" src="https://www.credly.com/badges/60c989f9-29b0-49b7-99b1-8bca99d69ef7/public_url" alt="hx2163" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hx2163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hx2163" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
