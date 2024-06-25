@@ -15,7 +15,7 @@
 
 <h3 align="left">Certificates:</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/60c989f9-29b0-49b7-99b1-8bca99d69ef7/public_url" target="blank"><img align="center" src="https://github.com/hx2163/IBM-data-science-professional-certificate/blob/main/certificates/IBMDS.svg" alt="hx2163" height="30" width="40" /></a>
+<a href="https://www.credly.com/badges/60c989f9-29b0-49b7-99b1-8bca99d69ef7/public_url" target="blank"> IBM Data Science Professional Certificate <img align="center" src="https://github.com/hx2163/IBM-data-science-professional-certificate/blob/main/certificates/IBMDS.svg" alt="hx2163" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
